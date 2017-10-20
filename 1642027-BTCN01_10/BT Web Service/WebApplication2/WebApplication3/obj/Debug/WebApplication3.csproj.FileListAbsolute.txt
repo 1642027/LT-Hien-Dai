@@ -1,0 +1,6 @@
+C:\Users\asthi\OneDrive\Documents\GitHub\LT Hiện Đại\BT Web Service\WebApplication2\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\asthi\OneDrive\Documents\GitHub\LT Hiện Đại\BT Web Service\WebApplication2\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\asthi\OneDrive\Documents\GitHub\LT Hiện Đại\BT Web Service\WebApplication2\WebApplication3\bin\WebApplication3.dll
+C:\Users\asthi\OneDrive\Documents\GitHub\LT Hiện Đại\BT Web Service\WebApplication2\WebApplication3\bin\WebApplication3.pdb
+C:\Users\asthi\OneDrive\Documents\GitHub\LT Hiện Đại\BT Web Service\WebApplication2\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\asthi\OneDrive\Documents\GitHub\LT Hiện Đại\BT Web Service\WebApplication2\WebApplication3\obj\Debug\WebApplication3.pdb
